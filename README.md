@@ -1,6 +1,5 @@
-- 👋 Eae, sou o tal do @bahhko
-- 💻 Github focado no curso de DS
-- 🐍 Pretendo ser mestre em python
+- 👋 Aqui éoatilio
+- 🐍 Python
 - 📫 Para entrar contato, use bruno.atilio.carvalho@gmail.com
 
 <!---
