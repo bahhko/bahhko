@@ -1,4 +1,4 @@
-- 👋 Aqui éoatilio
+- 👋 Só projeto inútil
 - 🐍 Python
 
 <!---
