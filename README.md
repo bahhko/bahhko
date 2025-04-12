@@ -1,6 +1,5 @@
 - 👋 Aqui éoatilio
 - 🐍 Python
-- 📫 Para entrar contato, use bruno.atilio.carvalho@gmail.com
 
 <!---
 bahhko/bahhko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
