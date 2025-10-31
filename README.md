@@ -44,7 +44,6 @@ echo "  🎯 Objetivo: Consolidar carreira como Analista SOC Júnior e evoluir p
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
   
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Security_Onion-informational?style=for-the-badge" alt="Security Onion"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C9B?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Metasploit-EE3322?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
