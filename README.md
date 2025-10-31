@@ -35,7 +35,7 @@ echo "  🎯 Objetivo: Consolidar carreira como Analista SOC Júnior e evoluir p
 ```
 
 ### 🛡️ Minhas Habilidades (skills.md)
-```
+
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
@@ -51,7 +51,7 @@ echo "  🎯 Objetivo: Consolidar carreira como Analista SOC Júnior e evoluir p
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-```
+
 
 📜 Certificações e Formação (education_certs.txt)
 ```
