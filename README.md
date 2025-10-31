@@ -6,45 +6,51 @@
   <a href="https://www.linkedin.com/in/brunoatilio/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  </div>
+</div>
 
 <h1 align="center">
-  Olá, mundo! 👋 Eu sou Bruno Atilio
+  👋 Olá, mundo! Eu sou o Bruno Atilio
 </h1>
 
 <p align="center">
-  <em>Analista de Segurança da Informação focado em  Blue Team e Resposta a Incidentes.</em>
+  <em>Analista de Segurança da Informação focado em Blue Team, Defesa Cibernética e Resposta a Incidentes.</em>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Eu sou um profissional de TI com 2 anos de experiência, apaixonado por tecnologia e por resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em cibersegurança defensiva (Blue Team) e administração de sistemas.
+Sou um profissional de TI com experiência em infraestrutura e suporte técnico, atualmente migrando para o campo da **Cibersegurança Defensiva (Blue Team)**.  
+Sou apaixonado por tecnologia, automação e pela busca constante de conhecimento — principalmente quando o desafio envolve proteger sistemas e investigar ameaças.
 
-* 🔭 Estou trabalhando em um projeto de Multicomplexador com ESP32-S3.
-* 🌱 Estou estudando para me tornar um estimado profissional na área de segurança.
-* 💬 Pergunte-me sobre: Active Directory, Redes, Linux, PowerShell e Security Onion.
+* 🔭 Projeto atual: desenvolvimento de um **Multicomplexador com ESP32-S3**, explorando integração de hardware e segurança IoT.  
+* 🌱 Em formação contínua pelo programa **Hackers do Bem (RNP/SENAI)** e aprimorando habilidades em **SOC e Threat Hunting**.  
+* 💬 Tópicos que domino: **Active Directory, Redes, Linux, PowerShell e Security Onion**.  
+* 🎯 Objetivo: consolidar carreira como **Analista SOC Júnior** e evoluir para **Threat Hunter**.
+
 ---
 
-### 🛡️ Minhas Habilidades (Tech Stack)
-
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
+### 🛡️ Minhas Habilidades
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
-  
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>
-  
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
   <img src="https://img.shields.io/badge/Security_Onion-informational?style=for-the-badge" alt="Security Onion"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
+
+---
+
+### 📜 Certificações e Formação
+
+- 🎓 **Curso Técnico em Desenvolvimento de Sistemas – ETEC**
+- 🎓 **Graduação em Defesa Cibernética – FIAP**
+- 🧩 **Programa Hackers do Bem – RNP/SENAI (Nivelamento e Básico)**
 
 ---
 
