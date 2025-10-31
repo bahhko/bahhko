@@ -43,7 +43,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
   <img src="https://img.shields.io/badge/Security_Onion-informational?style=for-the-badge" alt="Security Onion"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
   
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
