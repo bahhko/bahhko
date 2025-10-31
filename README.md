@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hDxZczrfjZj/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qTf/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -50,7 +50,7 @@ Sou apaixonado por tecnologia, automação e pela busca constante de conheciment
 
 - 🎓 **Curso Técnico em Desenvolvimento de Sistemas – ETEC**
 - 🎓 **Graduação em Defesa Cibernética – FIAP**
-- 🧩 **Programa Hackers do Bem – RNP/SENAI (Nivelamento e Básico)**
+- 🧩 **Programa Hackers do Bem – RNP/SENAI**
 
 ---
 
