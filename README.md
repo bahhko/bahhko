@@ -9,24 +9,22 @@
   </div>
 
 <h1 align="center">
-  Olá, mundo! 👋 Eu sou [SEU NOME]
+  Olá, mundo! 👋 Eu sou Bruno Atilio
 </h1>
 
 <p align="center">
-  <em>Analista de [SUA ÁREA, ex: Infraestrutura e Segurança da Informação] focado em [SEU FOCO, ex: Blue Team, Redes e Resposta a Incidentes].</em>
+  <em>Analista de Segurança da Informação focado em  Blue Team e Resposta a Incidentes.</em>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Eu sou um profissional de TI com [X] anos de experiência, apaixonado por tecnologia e por resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em cibersegurança defensiva (Blue Team) e administração de sistemas.
+Eu sou um profissional de TI com 2 anos de experiência, apaixonado por tecnologia e por resolver problemas complexos. Atualmente, estou focado em aprimorar minhas habilidades em cibersegurança defensiva (Blue Team) e administração de sistemas.
 
-* 🔭 Estou trabalhando em um projeto de [NOME DO PROJETO, ex: Honeypot com ESP32].
-* 🌱 Estou estudando para [OBJETIVO DE ESTUDO, ex: o concurso da UFLA / certificação X].
+* 🔭 Estou trabalhando em um projeto de Multicomplexador com ESP32-S3.
+* 🌱 Estou estudando para me tornar um estimado profissional na área de segurança.
 * 💬 Pergunte-me sobre: Active Directory, Redes, Linux, PowerShell e Security Onion.
-* ⚡ Fato curioso: [UM FATO CURIOSO SOBRE VOCÊ].
-
 ---
 
 ### 🛡️ Minhas Habilidades (Tech Stack)
