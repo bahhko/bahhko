@@ -62,6 +62,6 @@ echo "  🎯 Objetivo: Consolidar carreira como Analista SOC Júnior e evoluir p
 📊 Stats (./github_stats.sh)
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bahhko&show_icons=true&theme=tokyonight"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahhko&layout=compact&langs_count=8&theme=tokyonight"/> 
 </div>
