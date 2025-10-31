@@ -24,13 +24,13 @@
 #!/bin/bash
 # Bruno Atilio - Resumo Profissional
 
-echo "Sou um profissional de TI com experiência em infraestrutura e suporte técnico, atualmente migrando para o campo da Cibersegurança Defensiva (Blue Team)."
+echo "Sou um profissional de TI com experiência em Cibersegurança Defensiva (Blue Team)."
 echo "Sou apaixonado por tecnologia, automação e pela busca constante de conhecimento — principalmente quando o desafio envolve proteger sistemas e investigar ameaças."
-echo ""
+echo
+echo
 echo "Atualmente:"
 echo "  🔭 Projeto atual: Desenvolvimento de um Multicomplexador com ESP32-S3, explorando integração de hardware e segurança IoT."
 echo "  🌱 Em formação contínua pelo programa Hackers do Bem (RNP/SENAI) e aprimorando habilidades em SOC e Threat Hunting."
-echo "  💬 Tópicos que domino: Active Directory, Redes, Linux, PowerShell, e Security Onion."
 echo "  🎯 Objetivo: Consolidar carreira como Analista SOC Júnior e evoluir para Threat Hunter."
 ```
 
