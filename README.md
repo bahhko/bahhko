@@ -56,5 +56,6 @@ echo "  🎯 Objetivo: Consolidar carreira como Analista SOC Júnior e evoluir p
 ```
 - 🎓 Curso Técnico em Desenvolvimento de Sistemas – ETEC
 - 🎓 Graduação em Defesa Cibernética – FIAP
+- 🧩 CyberOps Cisco
 - 🧩 Programa Hackers do Bem – RNP/SENAI
 ```
